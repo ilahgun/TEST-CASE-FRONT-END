@@ -1,0 +1,14 @@
+.container {
+  padding: 20px;
+}
+.article {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+.article h2 {
+  font-size: larger;
+}
+.article p {
+  font-size: smaller;
+}

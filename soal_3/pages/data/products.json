@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Baja Ringan",
+    "price": 86000
+  },
+  {
+    "id": 2,
+    "name": "Pasir",
+    "price": 100000
+  },
+  {
+    "id": 3,
+    "name": "Bata Hebel",
+    "price": 2500
+  },
+  {
+    "id": 4,
+    "name": "Semen",
+    "price": 60000
+  },
+  {
+    "id": 5,
+    "name": "Baja Batangan",
+    "price": 70000
+  }
+]

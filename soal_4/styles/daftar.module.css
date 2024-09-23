@@ -1,0 +1,20 @@
+.container {
+  padding: 20px;
+}
+.container form {
+  font-size: 50px;
+}
+.item {
+  margin-top: 20px;
+}
+.item input {
+  color: black;
+  margin: 8px;
+}
+.container form button {
+  text-align: center;
+}
+.submited {
+  padding-top: 50px;
+  font-size: 50px;
+}
